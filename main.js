@@ -9,7 +9,7 @@ const minsHand = document.querySelector('.min-hand');
 const hourHand = document.querySelector('.hour-hand');
 let btn1 = document.querySelector(".ana")
 let btn2 = document.querySelector(".digi")
-let copyright = document.querySelector('.copyright'
+let copyright = document.querySelector('.copyright')
 
 
 btn1.addEventListener("click",()=>{
