@@ -48,6 +48,12 @@ function setDate() {
   const hourDegrees = ((hour / 12) * 360) + ((mins / 60) * 30) + 90;
   hourHand.style.transform = `rotate(${hourDegrees}deg)`;
 }
+
+//copyright
+copyright.onclick = () => {
+  alert("All rights reseved by Abdelrahman \n Hireme: abdelrahmanshaheen2007@gmail.com")
+}
+
 setInterval(setDate, 1000);
 
 setDate();
