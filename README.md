@@ -11,3 +11,7 @@ It includes an analog clock and a digital.
 ## Links
 
 ['See live']['https://clock-beginner.netlify.app']
+
+###### Copyright 
+All right reseved by Abdelrahman with the email 
+abdelrahman.shaheen@kgs-badlauterberg.de
