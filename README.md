@@ -10,7 +10,7 @@ It includes an analog clock and a digital.
 
 ## Links
 
-['See live']['https://clock-beginner.netlify.app']
+['See live']['https://clockknow.netlify.app']
 
 ###### Copyright 
 All right reseved by Abdelrahman with the email 
